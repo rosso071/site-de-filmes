@@ -13,7 +13,7 @@ Um site de streaming de filmes inspirado nos maiores serviços do mercado.
 
 ## Como visualizar
 
-Acesse o site em: [https://seu-usuario.github.io/rossoflix/](https://seu-usuario.github.io/rossoflix/)
+Acesse o site em: [https://rosso071.github.io/rossoflix/](https://seu-usuario.github.io/rossoflix/)
 
 ## Tecnologias utilizadas
 
