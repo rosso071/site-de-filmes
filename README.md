@@ -23,7 +23,7 @@ Acesse o site em: [https://rosso071.github.io/rossoflix/](https://seu-usuario.gi
 
 ## Screenshot
 
-![Captura de tela do RossoFlix](screenshot.png)
+[Captura de tela do RossoFlix![alt text](image.png)
 
 ## Como contribuir
 
